@@ -1,0 +1,125 @@
+﻿body {
+    margin: auto;
+    background: linear-gradient(90deg, lightgrey, darkgrey);
+    font-family: sans-serif;
+}
+
+main {
+    margin: 20px;
+}
+
+.navbar ul {
+    list-style-type: none;
+    overflow: hidden;
+}
+
+.navbar li {
+    float: left;
+}
+
+.navbar a {
+    font-family: 'Comic Sans MS', cursive;
+    display: block;
+    text-align: center;
+    color: white;
+    background-color: dimgrey;
+    text-decoration: none;
+    padding: 15px;
+    margin-left: 5px;
+    border: 2px solid black;
+    box-shadow: -3px -3px 2px dimgrey;
+}
+
+.navbar a:hover {
+    background-color: silver;
+}
+
+h1 {
+    margin-top: 10px;
+    text-align: center;
+    font-family: 'Comic Sans MS', cursive;
+}
+
+h2 {
+    text-align: center;
+    font-family: 'Comic Sans MS', cursive;
+    margin-top: 70px;
+}
+
+.about_me {
+    background-color: grey;
+    text-align: center;
+    color: white;
+    padding: 10px;
+    margin: auto;
+    width: 70%;
+    border: 3px dashed black;
+    border-radius: 10px;
+    box-shadow: 10px 10px 3px dimgrey;
+}
+
+.education {
+    background-color: grey;
+    text-align: center;
+    color: white;
+    padding: 10px;
+    margin: auto;
+    width: 30%;
+    border: 3px dashed black;
+    border-radius: 10px;
+    box-shadow: 10px 10px 3px dimgrey;
+}
+
+.skills {
+    background-color: grey;
+    text-align: center;
+    color: white;
+    padding: 10px;
+    margin: auto;
+    width: 30%;
+    border: 3px dashed black;
+    border-radius: 10px;
+    box-shadow: 10px 10px 3px dimgrey;
+    margin-bottom: 70px;
+}
+
+.linkedin {
+    background-color: grey;
+    text-align: center;
+    color: white;
+    padding: 10px;
+    margin: auto;
+    width: 30%;
+    border: 3px dashed black;
+    border-radius: 10px;
+    box-shadow: 10px 10px 3px dimgrey;
+}
+
+.linkedin a {
+    color: black;
+}
+
+.projects {
+    background-color: grey;
+    text-align: center;
+    color: white;
+    padding: 10px;
+    margin: auto;
+    width: 535px;
+    border: 3px dashed black;
+    border-radius: 10px;
+    box-shadow: 10px 10px 3px dimgrey;
+}
+
+fieldset {
+    width: 500px;
+    height: 300px;
+    display: block;
+    border: 3px, solid, black;
+}
+
+video {
+    background-color: black;
+    border: 3px solid white;
+    border-radius: 10px;
+}
